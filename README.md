@@ -1,6 +1,6 @@
 # stock-analysis
 
-Link to the Excel-file: 
+Link to the Excel-file: https://github.com/Mishauwa/stock-analysis/blob/main/VBA_Challenge.xlsm
 
 ## Overview of Project: Explain the purpose  of this analysis
 
